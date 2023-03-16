@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🌱 Meu nome é Mateus, Sou brasileiro, seja bem vindo à minha página Github
+- 🌱 Meu nome é <a href="https://www.linkedin.com/in/mateus-s-910b1283/"> Mateus </a>, Sou brasileiro, seja bem vindo à minha página Github
 - ⚡ Eu sei HTML
 - 😄 E um pouquinho de CSS, JavaScript, ReactJS, NodeJS, etc.
 - 💖 Sempre disposto a aprender 
