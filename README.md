@@ -7,11 +7,11 @@
 
 <br/>
 
-- 🌱 Meu nome é <a href="https://www.linkedin.com/in/mateus-s-910b1283/" target="_blank"> Mateus </a>, Sou brasileiro, seja bem vindo à minha página Github
+- 🌱 Meu nome é <a href="https://www.linkedin.com/in/mateus-s-910b1283/" target="_blank"> Mateus </a>, Sou brasileiro, gosto de RPG e Boardgames, bem vindo a minha página do Github
 - ⚡ Eu sei HTML
-- 😄 E um pouquinho de CSS, JavaScript, ReactJS, NodeJS, etc.
+- 😄 E um pouquinho de CSS e JavaScript...
 - 💖 Sempre disposto a aprender 
-- 🔥 Nessa vida, só não existe solução pra morte!
+- 🔥 Estudando no programa de formação Starter Full Stack Web na Growdev
 
 <br/>
 
