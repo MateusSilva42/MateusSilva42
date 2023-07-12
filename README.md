@@ -29,9 +29,4 @@
   </div> 
 </p>
 
-------
-
-Credit: [Niefee](https://github.com/Niefee)
-Last Edited on 03/02/2023
-
 
