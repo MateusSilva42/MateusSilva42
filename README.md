@@ -16,10 +16,15 @@
 
 <br/>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MateusSilva42&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Mateus Silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSilva42&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
 <p align="center" style="height: 180px;">
-    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=MateusSilva42&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusSilva42&theme=radical&show_icons=true&border=e4e2e2" />
+   <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusSilva42&theme=radical&show_icons=true&border=e4e2e2" />
 </p>
+
 
 
 <p align="center"> 
@@ -28,5 +33,7 @@
     <img src="https://profile-counter.glitch.me/MateusSilva42/count.svg"/>
   </div> 
 </p>
+
+
 
 
